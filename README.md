@@ -1,1 +1,2 @@
-# periscope-counter
+# Periscope Analytics
+Live periscope analytics
