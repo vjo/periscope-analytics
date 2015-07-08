@@ -165,7 +165,10 @@ main {
     }
 }
 
-input[type="text"] { border: none; }
+input[type="text"] {
+    border: none;
+    &:focus { box-shadow: none; }
+}
 
 .input {
     position: relative;
